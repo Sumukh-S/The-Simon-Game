@@ -8,11 +8,9 @@ The **Simon Game** is a fun and challenging memory game where the player must re
 - [Technologies](#technologies)
 - [How to Play](#how-to-play)
 - [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
-Check out the live demo: [Simon Game Demo](#) *(Update with the live GitHub Pages link or your custom domain)*
+Check out the live demo: https://sumukh-s.github.io/The-Simon-Game/
 
 ## Features
 - Responsive design for mobile and desktop screens.
